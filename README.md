@@ -25,7 +25,7 @@ Using the Support_Vector_Mechanisam Algorithm by Supervised Machine Learning, Pr
       7. Test the model with the help of accuracy , accuracy should be lie in the range of 0-1.
 
 
-      # Conclusion :
+   # Conclusion :
    
    According to my support vector mechanism model the spices are linear. By the accuracy of 1.00.
 
