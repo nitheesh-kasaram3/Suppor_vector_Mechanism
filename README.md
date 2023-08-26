@@ -10,7 +10,7 @@ Using the Support_Vector_Mechanisam Algorithm by Supervised Machine Learning, Pr
  Find out as a Data Science Engineer how much accurcy is there all category contain same spacies.
 
  # TASK :  
-      1. Preprocess the data in Skit.learn library 
+      1. Preprocess the data in Scikit.learn library 
       
       2. Load the data using Sklearn model selection default argument
 
